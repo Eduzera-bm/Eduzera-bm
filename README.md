@@ -1,38 +1,52 @@
-![Eduardo Miolla - Analista de Business Intelligence](caminho/para/seu-gif.gif)
+<img src="images/svg/header_pt.svg"></img>
 
-# 👋 Olá, eu sou Eduardo Miolla!
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
 
-💼 **Analista de Business Intelligence** na **Catálise Investimentos**
+### :space_invader: &nbsp;Sobre mim
 
-📊 Apaixonado por transformar dados em insights estratégicos e automação de processos.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
 
-## 🚀 Tecnologias e Ferramentas
+<p align="center">
+  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-### 📂 **Banco de Dados**
-- SQL
-- MySQL
+<hr/>
 
-### 📊 **BI e Visualização de Dados**
-- Power BI (DAX e M)
-- Excel Avançado (Macros e Power Query)
+<details>
+  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
+  <br/>
+  <!-- Adicionar as badges com as tecnologias que você usa -->
+  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+  ![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
+  ![Primefaces](https://img.shields.io/badge/PRIMEFACES-039BE5.svg?&style=flat&logoColor=white)&nbsp;
+  <!-- Mais badges -->
+</details>
 
-### 🔄 **ETL e Integração de Dados**
-- Python
-- Pentaho
-- Airflow
+<details>
+  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
+  <br/>
+  <!-- Adicionar mais badges de tecnologias que você está aprendendo -->
+  ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+  <!-- Mais badges -->
+</details>
 
-### ⚙️ **Automação de Processos**
-- Power Automate
-- Power Apps
-- SharePoint
-
-## 📈 Estatísticas do GitHub
-
-![Eduardo Miolla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduzera-bm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzera-bm&layout=compact&theme=tokyonight)
-
-## 🌎 Onde me encontrar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--miolla-blue?logo=linkedin)](https://www.linkedin.com/in/eduardo-miolla/)
-
-📫 **Vamos conversar sobre dados?** Me chame no LinkedIn! 🚀
+<details>
+  <summary><b>:gear: &nbsp;Estatísticas do GitHub</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+    </p>
+</details>
