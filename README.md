@@ -8,12 +8,10 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Catálise Investimentos]([https://www.cint.com/](https://www.cataliseinvestimentos.com/). \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de dados, Machine Learning e Estatística.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:
 
 <p align="center">
   <a href="https://www.instagram.com/eduzera_bm/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
