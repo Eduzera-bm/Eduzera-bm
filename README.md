@@ -8,7 +8,7 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Catálise Investimentos]([https://www.cataliseinvestimentos.com/]). \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Catálise Investimentos](https://www.cataliseinvestimentos.com/). \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de dados, Machine Learning e Estatística.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:
