@@ -1,48 +1,21 @@
-<img src="images/svg/header_pt.svg"></img>
-
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table>
-
-### :space_invader: &nbsp;Sobre mim
-
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Catálise Investimentos](https://www.cataliseinvestimentos.com/). \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de dados, Machine Learning e Estatística.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:
+### ⚙️ &nbsp;GitHub Analytics  
 
 <p align="center">
-  <a href="https://www.instagram.com/eduzera_bm/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eduardo-miolla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Eduzera-bm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduzera-bm&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaçamento entre as imagens -->
+  <a href="https://github.com/Eduzera-bm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzera-bm&layout=compact&langs_count=8&theme=slateorange"/>
+  </a>
 </p>
 
-<hr/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-<details>
-  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
-  <br/>
-  <!-- Adicionar as badges com as tecnologias que você usa -->
-  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-  ![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
-  ![Primefaces](https://img.shields.io/badge/PRIMEFACES-039BE5.svg?&style=flat&logoColor=white)&nbsp;
-  <!-- Mais badges -->
-</details>
+### ⚙️ &nbsp;Power Automate & Power BI Icons
 
-<details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
-  <br/>
-  <!-- Adicionar mais badges de tecnologias que você está aprendendo -->
-  ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-  <!-- Mais badges -->
-</details>
-
-<details>
-  <summary><b>:gear: &nbsp;Estatísticas do GitHub</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
-    </p>
-</details>
+| Power Automate | <a href="PNG/Power-Automate.png"><img src="PNG/Power-Automate.png" height="25"/></a>&nbsp;<a href="PNG/Power-Automate-Colored.png"><img src="PNG/Power-Automate-Colored.png" height="25"/></a> | <a href="SVG/Power-Automate.svg"><img src="SVG/Power-Automate.svg" height="25"/></a>&nbsp;<a href="SVG/Power-Automate-Colored.svg"><img src="SVG/Power-Automate-Colored.svg" height="25"/></a> |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Power BI       | <a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a> | <a href="SVG/Power-BI.svg"><img src="SVG/Power-BI.svg" height="25"/></a> |
